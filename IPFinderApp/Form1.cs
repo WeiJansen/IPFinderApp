@@ -26,8 +26,10 @@ namespace IPFinderApp
         Dictionary<string, string> HostnameDic = new Dictionary<string, string>() {
             { "DESKTOP-QV1KSBT", "减肥中请勿打扰，富婆除外"},
             { "YUGUIQING", "尊贵的帕萨特车主兼老色批"},
-            { "LAPTOP-JFF6OAL1", "207最帅最苗条小伙"}
+            { "LAPTOP-JFF6OAL1", "207最帅最苗条的年轻小伙"},
+            { "MACBOOKPRO-AB3E", "歌厅发廊洗浴足疗按摩江湖传说"}
         };
+
 
         public int ScanerTotal { get; set; }
 
